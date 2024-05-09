@@ -1,0 +1,10 @@
+{
+  "hotel": {
+    "hotelId": "ABZAG123",
+    "hotelName": "Top Hotel"
+  },
+  "roomCode": "A1Q",
+  "rateCode": "BAR",
+  "wishes": "Non-s",
+  "internalBookId": "AB12345"
+}
